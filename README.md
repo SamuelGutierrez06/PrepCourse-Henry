@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Es un repositorio del modulo 2 Prepcourse Henry
+Este solo es una prueba e como clonar hithub a mi pc
